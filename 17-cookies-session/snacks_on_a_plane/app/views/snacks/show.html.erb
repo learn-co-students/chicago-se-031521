@@ -1,0 +1,10 @@
+<h1>snacks show page</h1>
+
+<p> Name: <%= @snack.name %> </p>
+<p> Brand: <%= @snack.brand %> </p>
+<p> Flavor Profile: <%= @snack.flavor_profile %> </p>
+
+<%= link_to "Edit snack", edit_snack_path(@snack.id) %>
+<%= button_to "Delete snack", snack_path(@snack.id), method: :delete %>
+
+<%= link_to "index", snacks_path %>
