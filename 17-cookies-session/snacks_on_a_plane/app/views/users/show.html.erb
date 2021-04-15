@@ -1,20 +1,30 @@
-<h1>user show page</h1>
+<% if session[:view_count].to_i <= 3 %>
 
-<h3> <%= @user.name %> </h3>
-<p> <%= @user.motto %> </p>
-<img src="<%= @user.img_url %>" alt="<%= @user.name %>">
+    <h1>user show page</h1>
+    <h1>Page Views <%= session[:view_count]%> </h1>
 
-<h5>My Reviews</h5>
+    <h3> <%= @user.name %> </h3>
+    <p> <%= @user.motto %> </p>
+    <img src="<%= @user.img_url %>" alt="<%= @user.name %>">
 
-<% @user.user_snacks.each do |user_snack| %>
-    <p> Name: <%= user_snack.snack.name %> </p>
-    <p> Review: <%= user_snack.review %> </p>
-    <p> Rating: <%= user_snack.rating %> </p>
-    <hr>
-<% end %>
+    <h5>My Reviews</h5>
 
-<h5>My Snacks</h5>
+    <% @user.user_snacks.each do |user_snack| %>
+        <p> Name: <%= user_snack.snack.name %> </p>
+        <p> Review: <%= user_snack.review %> </p>
+        <p> Rating: <%= user_snack.rating %> </p>
+        <hr>
+    <% end %>
 
-<% @user.snacks.each do |snack| %>
-    <p> Name: <%= snack.name %> </p>
+    <h5>My Snacks</h5>
+
+    <% @user.snacks.each do |snack| %>
+        <p> Name: <%= snack.name %> </p>
+    <% end %>
+
+<% else %>
+    <iframe width="950" height="534" src="https://www.youtube.com/embed/GpOWBIySnzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+    <%= button_to "I Promise I watched this", reset_path, method: :delete %>
 <% end %>

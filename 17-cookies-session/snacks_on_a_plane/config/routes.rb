@@ -13,6 +13,7 @@ Rails.application.routes.draw do
 
   # does all the work of ☝🏽 in one line
   resources :users
+  delete 'reset_views', to: 'sessions#reset_views', as: 'reset'
 
 end
 
