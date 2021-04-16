@@ -3,6 +3,8 @@ class User < ApplicationRecord
     has_many :snacks, through: :user_snacks
     has_secure_password
 
+    validates :name, presence: true, uniqueness: true
+
     # def password=(plaintext_password)
     #     # run the plaintext password through a hashing algo
     #     encrypted_pw = BCrypt::Password.create(plaintext_password)

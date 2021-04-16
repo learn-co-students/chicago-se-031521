@@ -19,7 +19,7 @@ end
 
 puts "...creating users 💁‍♀️💁‍♂️"
 20.times do
-    User.create(name: Faker::Movies::HarryPotter.character, motto: Faker::Movies::HarryPotter.quote, img_url: Faker::LoremFlickr.image)
+    User.create(name: Faker::Movies::HarryPotter.character, password: "password1234", motto: Faker::Movies::HarryPotter.quote, img_url: Faker::LoremFlickr.image)
 end
 
 puts "...creating reviews 📝"

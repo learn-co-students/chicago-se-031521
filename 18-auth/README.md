@@ -108,13 +108,20 @@ A new salt gets randonmly generated with every password. Typically, that salt va
 - Using information about our signed in user
 - Logout
 
+Video:
 politician -< statement
 user
 
-
-
 politician -< statement
 user -< statement
+
+
+Snacks app:
+snack -< user_snack
+user
+
+snack -< user_snack
+user -< user_snack
 
 ## Steps
 

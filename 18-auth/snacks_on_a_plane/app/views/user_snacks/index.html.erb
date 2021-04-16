@@ -1,0 +1,10 @@
+<h1>All the reviews:</h1>
+<ul>
+<% @user_snacks.each do |user_snack|%>
+    <li><%= link_to user_snack.snack.name, user_snack_path(user_snack.id) %>: <%= user_snack.review %></li>
+    <br>
+<% end %>
+</ul>
+<br>
+<hr>
+☞ <%= link_to "Create a user_snack", new_user_snack_path %>

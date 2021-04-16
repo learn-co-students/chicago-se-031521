@@ -20,6 +20,7 @@
 
     <% if @current_user %>
       <p> Welcome, <%= @current_user.name %> </p>
+      <%= button_to "Logout", logout_path, method: :delete %>
     <% else %>
       <%= link_to "Sign Up", "/signup" %>
       <%= link_to "Log In", "/login" %>

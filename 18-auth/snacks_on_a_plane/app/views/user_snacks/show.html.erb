@@ -1,0 +1,10 @@
+<h1>Review of <%= @user_snack.snack.name %></h1>
+<h4> by <%= @user_snack.user.name %></h4>
+
+<p><%= @user_snack.review %></p>
+<p>Rating: <%= @user_snack.rating %></p>
+
+<% if @current_user == @user_snack.user %>
+    <%= button_to "Edit", edit_user_snack_path(@user_snack), method: :get %>
+    <%= button_to "Delete user_snack", @user_snack, method: :delete %>
+<% end %>
