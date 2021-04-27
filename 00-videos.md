@@ -15,3 +15,4 @@
 | Phase 2 students presenting Phase 1 projects | https://youtu.be/Nr-LKRgJCxQ | 
 | [Project setup and TTY Prompt](https://github.com/learn-co-students/chicago-se-031521/tree/main/10-tty-prompt)	| https://youtu.be/Y1ftlu3SkQU | 
 | DOM Manipulation | https://youtu.be/XxsD9pnSyLA | 
+| [Debugging Javascript](https://github.com/learn-co-students/chicago-se-031521/tree/main/19-debugging-javascript) | https://youtu.be/0Wj58nB443U |
