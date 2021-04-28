@@ -16,3 +16,4 @@
 | [Project setup and TTY Prompt](https://github.com/learn-co-students/chicago-se-031521/tree/main/10-tty-prompt)	| https://youtu.be/Y1ftlu3SkQU | 
 | DOM Manipulation | https://youtu.be/XxsD9pnSyLA | 
 | [Debugging Javascript](https://github.com/learn-co-students/chicago-se-031521/tree/main/19-debugging-javascript) | https://youtu.be/0Wj58nB443U |
+| [Event Handling](https://github.com/learn-co-students/chicago-se-031521/tree/main/20-event-handling) | https://youtu.be/hDFumWLrXXA |
