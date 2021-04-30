@@ -19,3 +19,5 @@
 | [Event Handling](https://github.com/learn-co-students/chicago-se-031521/tree/main/20-event-handling) | https://youtu.be/hDFumWLrXXA |
 | [DOM Challenge Review](https://github.com/learn-co-students/chicago-se-031521/tree/main/21-DOM-Challenge-review) | https://youtu.be/Js5x8FB1xAI |
 | [DOM Challenge Review pt 2](https://github.com/learn-co-students/chicago-se-031521/tree/main/22-DOM-Challenge-review-pt2) | https://youtu.be/ORNuVdoxhyE |
+| [Fetching data from an API](https://github.com/learn-co-students/chicago-se-031521/tree/main/23-fetch-intro) | https://youtu.be/3N_KgWEGwsE |
+| [Sending data with fetch](https://github.com/learn-co-students/chicago-se-031521/tree/main/24-sending-data-with-fetch) | https://youtu.be/ZIapkXjFU_Q |
