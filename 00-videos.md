@@ -21,3 +21,4 @@
 | [DOM Challenge Review pt 2](https://github.com/learn-co-students/chicago-se-031521/tree/main/22-DOM-Challenge-review-pt2) | https://youtu.be/ORNuVdoxhyE |
 | [Fetching data from an API](https://github.com/learn-co-students/chicago-se-031521/tree/main/23-fetch-intro) | https://youtu.be/3N_KgWEGwsE |
 | [Sending data with fetch](https://github.com/learn-co-students/chicago-se-031521/tree/main/24-sending-data-with-fetch) | https://youtu.be/ZIapkXjFU_Q |
+| [Not-so-simple Liker practice](https://github.com/learn-co-students/chicago-se-031521/tree/main/25-complicated-liker) | https://youtu.be/0Zm3GSAJy_M |
