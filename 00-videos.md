@@ -23,3 +23,4 @@
 | [Sending data with fetch](https://github.com/learn-co-students/chicago-se-031521/tree/main/24-sending-data-with-fetch) | https://youtu.be/ZIapkXjFU_Q |
 | [Not-so-simple Liker practice](https://github.com/learn-co-students/chicago-se-031521/tree/main/25-complicated-liker) | https://youtu.be/0Zm3GSAJy_M |
 | [JS Toy Tale review](https://github.com/learn-co-students/chicago-se-031521/tree/main/26-toy-tale-review) | https://youtu.be/IPOkFkvLrO4 |
+| [Monster Practice Challenge](https://github.com/learn-co-students/chicago-se-031521/tree/main/27-monster-practice-challenge) | https://youtu.be/l2LZHykUd-A |
