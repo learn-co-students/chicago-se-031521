@@ -27,3 +27,4 @@
 | Rails as an API | https://youtu.be/9i76dCUHG_U |
 | Intro to React | https://youtu.be/CigBzRvdZsw |
 | React Components | https://youtu.be/wkZgpwHCMaE |
+| React Props and State | https://youtu.be/8QzWBtjwXTg |
