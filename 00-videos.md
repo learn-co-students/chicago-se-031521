@@ -26,3 +26,4 @@
 | [Monster Practice Challenge](https://github.com/learn-co-students/chicago-se-031521/tree/main/27-monster-practice-challenge) | https://youtu.be/l2LZHykUd-A |
 | Rails as an API | https://youtu.be/9i76dCUHG_U |
 | Intro to React | https://youtu.be/CigBzRvdZsw |
+| React Components | https://youtu.be/wkZgpwHCMaE |
