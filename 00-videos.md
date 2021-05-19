@@ -28,3 +28,4 @@
 | Intro to React | https://youtu.be/CigBzRvdZsw |
 | React Components | https://youtu.be/wkZgpwHCMaE |
 | React Props and State | https://youtu.be/8QzWBtjwXTg |
+| Movie Props Lab Review | https://youtu.be/-lBWrgDtAC8 |
