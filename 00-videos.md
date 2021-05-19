@@ -29,3 +29,4 @@
 | React Components | https://youtu.be/wkZgpwHCMaE |
 | React Props and State | https://youtu.be/8QzWBtjwXTg |
 | Movie Props Lab Review | https://youtu.be/-lBWrgDtAC8 |
+| React Events and Forms | https://youtu.be/qPi_FCdOGPk |
