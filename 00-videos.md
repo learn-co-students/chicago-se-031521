@@ -30,3 +30,5 @@
 | React Props and State | https://youtu.be/8QzWBtjwXTg |
 | Movie Props Lab Review | https://youtu.be/-lBWrgDtAC8 |
 | React Events and Forms | https://youtu.be/qPi_FCdOGPk |
+| Events Review | https://www.youtube.com/watch?v=aqWWia64Hqo | 
+| Functional Components and Hooks | https://www.youtube.com/watch?v=042EWJE5Nd0 |
