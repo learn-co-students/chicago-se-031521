@@ -34,4 +34,5 @@
 | Functional Components and Hooks | https://www.youtube.com/watch?v=042EWJE5Nd0 |
 | [React Toy Tales codealong Part 1](https://github.com/marcmajcher/react-toy-tales-031521/tree/part1) | https://youtu.be/Ar0sBevR0Yc | 
 | [React Toy Tales codealong Part 2](https://github.com/marcmajcher/react-toy-tales-031521/tree/part2) | https://youtu.be/2Wu-C7AV5f8 |
-| [Bill Murray CC Preview](https://github.com/marcmajcher/cast-bill-murrays) | https://youtu.be/3gCSRGzeDac |
+| [Bill Murray CC Preview](https://github.com/marcmajcher/cast-bill-murrays/tree/031521-part1) | https://youtu.be/3gCSRGzeDac |
+| [Bill Murray CC Preview Part 2](https://github.com/marcmajcher/cast-bill-murrays/tree/031521-part2) | https://youtu.be/DfTAJCBxbN0 |
