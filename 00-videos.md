@@ -38,3 +38,4 @@
 | [Bill Murray CC Preview Part 2](https://github.com/marcmajcher/cast-bill-murrays/tree/031521-part2) | https://youtu.be/DfTAJCBxbN0 |
 | React Review and AMA | https://youtu.be/KlqVK2Rl1xc |
 | [JWT with Rails and React Part 1](https://github.com/marcmajcher/031521-JWT-rails-react-auth) | https://youtu.be/Amcj_yCdYOI |
+| CC Advanced Deliverables Review | https://youtu.be/5kEr2ZzGAsM |
